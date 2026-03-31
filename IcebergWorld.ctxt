@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=IcebergWorld
+comment0.text=\r\n\ You\ control\ Pengu\ and\ you\ have\ to\ jump\ up\ and\ down\ using\ the\ arrows\ and\ the\ space\ bar\ (to\ jump\ up)\ to\ eat\ all\ the\ food\ and\ score\ 100\ points\ before\ the\ time\ runs\ out.\ \r\n\ DON"T\ TOUCH\ THE\ GRASS\!\r\n\ If\ you\ don't\ reach\ 100\ points\ and\ your\ time\ has\ ran\ out,\ you\ are\ still\ a\ winner.\r\n\ You\ also\ have\ 350\ milliseconds\ to\ eat\ all\ the\ food.\ HAVE\ FUN\!\!\!\!\r\n\ @author\ (Shriya\ Biddala)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=IcebergWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IcebergWorld.\r\n\ \r\n
+comment10.params=
+comment10.target=void\ endGame()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Create\ new\ floating\ objects\ at\ irregular\ intervals.\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment4.params=
+comment4.target=void\ countTime()
+comment5.params=
+comment5.target=void\ showEndMessage()
+comment6.params=
+comment6.target=void\ showEndMessage2()
+comment7.params=
+comment7.target=void\ showScore()
+comment8.params=
+comment8.target=void\ showTime()
+comment9.params=points
+comment9.target=void\ addScore(int)
+numComments=11
